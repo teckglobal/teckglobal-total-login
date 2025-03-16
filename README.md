@@ -12,7 +12,8 @@
  * Tags: wordpress, wordpress login, wordpress customization, wordpress branding, wordpress plugin
 
 == Description ==
-TeckGlobal Total Login is completely free lightweight plugin designed to Customizes the WordPress login page with TeckGlobal branding or your branding of choice and allows administrators to modify logos, backgrounds, fonts, and colors.
+
+A WordPress plugin by TeckGlobal LLC to customizes the WordPress login page with branding of your choice, modify logos, backgrounds, fonts, and colors.
 
 ### Features
 - **Custom Wordpress Login**: Add business website logo, background, fonts to your login page
